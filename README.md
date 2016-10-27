@@ -1,6 +1,8 @@
 This is just a clone of the Google Code project I did years ago that adds some much-needed features to a Spektrum DX6i RC transmitter.
 Old version: https://code.google.com/archive/p/dx6i-enhancements/
-I might port this to the lowest common denominator Arduino variant.
+Blog post for this project (includes images): http://hackcorrelation.blogspot.de/2014/03/spektrum-dx6i-backlight-and-timer-hack.html
+I might port this to the lowest common denominator Arduino variant but for now this project exists only for historical reasons.
+
 
 **Project goals**:
 * add automatic timer start and pause to the DX6i remote
